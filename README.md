@@ -1,0 +1,1 @@
+# your-repo-CONTRIBUTING.md-.claude-hooks-contributing-check.mjs
